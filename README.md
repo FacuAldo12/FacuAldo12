@@ -1,6 +1,6 @@
 # Facundo Aldorino
 
-## Repuestos Lamadrid
+## Pagina E-commerce
 
 Desarrollé una tienda web para una casa de repuestos de autos de Villa Ballester. Los clientes pueden buscar una pieza por código o por marca del auto, consultar si es compatible y armar un pedido por WhatsApp.
 
